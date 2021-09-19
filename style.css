@@ -1,0 +1,27 @@
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.heading{
+    width:100%;
+    text-align:left;
+    font-family:'Times New Roman', Times, serif;
+} 
+
+.heading h3{
+    display:inline;
+    font-size:20px;
+}
+
+#instruction{
+    float:right; 
+    border:1px black;
+    font-size:18px;
+}
+
+#status{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+}
